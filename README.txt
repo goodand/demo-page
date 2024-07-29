@@ -1,4 +1,8 @@
 Photon by HTML5 UP
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4168b962-08ed-4905-9f2d-42d7da9f0074/deploy-status)](https://app.netlify.com/sites/netlifyandgithubtest/deploys)
+
+
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
